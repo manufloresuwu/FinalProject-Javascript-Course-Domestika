@@ -5,7 +5,7 @@ function escribeNiveles() {
     controlNivel.innerHTML =
       "<button class='nivel' data-nivel=" +
       indice +
-      ">Nivel " +
+      ">Level " +
       (indice + 1) +
       "</button>";
     menuNiveles.appendChild(controlNivel);

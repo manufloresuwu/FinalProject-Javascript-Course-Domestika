@@ -12,6 +12,10 @@ In the second one we count the movements and the time.
 If the player is with 0 of any of this he/she will have to start from level 1.
 ![Gameover](images/gameover.png)
 
-## Links used to complete the game
+## Play the Game!!! 
+Here I leave the website to try it!
+https://manufloresuwu.github.io/FinalProject-Javascript-Course-Domestika/
+
+## Links Used to Complete the Game
 - https://www.w3schools.com/cssref/playdemo.php?filename=playcss_background-image&preval=url(%27paper.gif%27)
 - https://www.w3schools.com/cssref/pr_background-image.php
